@@ -1,5 +1,0 @@
-mongo:
-    image: mongo
-    environment:
-      - MONGO_INITDB_ROOT_USERNAME=zain
-      - MONGO_INITDB_ROOT_PASSWORD=mypassword
